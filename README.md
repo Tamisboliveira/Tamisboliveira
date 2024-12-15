@@ -34,4 +34,3 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tamiboliveira/profilecard/?igsh=ZWVkamd6NnlmN2Yx)
 
-![Snake animation](https://github.com/Tamisboliveira/Tamisboliveira/blob/output/github-contribution-grid-snake.svg)
